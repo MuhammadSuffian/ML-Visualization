@@ -23,4 +23,4 @@ plotly
 pip install pandas numpy scikit-learn plotly
 ```
 
-Open `Visualize_a_ML.ipynb` and run all cells.
+Open `Visualize a ML.ipynb` and run all cells.
